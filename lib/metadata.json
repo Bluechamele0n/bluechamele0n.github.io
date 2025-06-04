@@ -1,12 +1,85 @@
 {
   "vaultName": "Player lexicon",
-  "lastExport": 1749054570850,
+  "lastExport": 1749057943517,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Angels/Angels.md",
+    "Angels/Destiny, Angel of Fate, Profile.md",
+    "IMG/angels and goods/Arcna, Angel of the Arcane (2).png",
+    "IMG/angels and goods/Clock, Angel of Time. .png",
+    "IMG/angels and goods/Cupin, the angel of sin.png",
+    "IMG/angels and goods/Day, the angel of light.png",
+    "IMG/angels and goods/Death, the Angel of Death.png",
+    "IMG/angels and goods/Destiny, the Angel of Fate 2.png",
+    "IMG/angels and goods/Drana, the Archangel of Dragons.png",
+    "IMG/angels and goods/fierce, regal angelic figure named Lucina  .png",
+    "IMG/angels and goods/Filla, the Angel of Feelings.png",
+    "IMG/angels and goods/Known, Angel of Knowledge.png",
+    "IMG/angels and goods/Livius, the Angel of Life.png",
+    "IMG/angels and goods/Loki, the angel of mischeif.png",
+    "IMG/angels and goods/mr,sesoan, angel of seasons.png",
+    "IMG/angels and goods/Night, angel of Darkness.png",
+    "IMG/angels and goods/Poki, Angel of Monsters.png",
+    "IMG/angels and goods/Prai, the Angel of Worship.png",
+    "IMG/angels and goods/Sandman, angel of slumber.png",
+    "IMG/angels and goods/Sky, angel of air.png",
+    "IMG/angels and goods/Sureflight.png",
+    "IMG/angels and goods/Undean, Angel of the Undead.png",
+    "IMG/angels and goods/UntitledProject_Comp1_2025-01-08_19.56.04.png",
+    "IMG/angels and goods/Willia, Angel of Will.png",
+    "IMG/Destiny, the Angel of Fate.png",
+    "Realms/Damnation/Damnation.md",
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 1.md",
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 2.md",
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 3.md",
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 4.md",
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 5.md",
+    "Realms/Feywild/Lady Luck.md",
+    "Realms/Feywild/Lorebook fae.md",
+    "Realms/Feywild/Lorebook fae 2.md",
+    "Realms/Feywild/Oathbound.md",
+    "Realms/Feywild/The Divine Heart of the Feywild.md",
+    "Realms/Feywild/The feywilds.md",
+    "Realms/Fiondell/Demre Stade.md",
+    "Realms/Fiondell/Fiondell.md",
+    "Realms/Plane of Reflection/Plane of reflection.md",
+    "Realms/Plane of the gods/Plane of the Gods.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Appointing of Day, Night, and Mr. Season.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Appointment of Lady Love, Sandman, Filla, Cupin, and Loki.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Appointment of Undean, Keeper of Souls.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Beginning of All Things.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Birth of the Fey.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Blessing of Plantios, Nurturer of the Green.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Creation of Beasts and Monsters.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Creation of Dragons.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The First Memory, The Making of Mortals.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Forging of the Dwarves.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Origin of the Tieflings.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Truth Behind the First Dragonborn.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Banishment of the Voidbringer.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Choice of Destiny.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Era of Divine Silence.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Founding of the Church of the Five.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Origins of Destiny.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Rise of the Church of Five.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Rise of the Holy Knights.md",
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Tale of the Veil’s Shattering.md",
+    "Angels of order.md",
+    "Angels of Parts of life.md",
+    "Book of Beginning.md",
+    "Book of Destiny.md",
+    "ChatGPT Image 18 maj 2025 03_42_01.png",
+    "The chained angels.md",
+    "The fabric.md",
+    "The tapestry.md",
+    "The Time stream.md",
+    "The Void.md",
+    "Varlen Brassleaf.md",
     "Welcome.md",
+    "lib/media/destiny,-the-angel-of-fate-2.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -68,177 +141,641 @@
   ],
   "fileInfo": {
     "Welcome.md": {
-      "modifiedTime": 1749054570850,
-      "sourceSize": 203,
+      "modifiedTime": 1749057943517,
+      "sourceSize": 1272,
       "exportedPath": "welcome.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1749054570850,
-      "sourceSize": 972,
+      "modifiedTime": 1749057943517,
+      "sourceSize": 36676,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1749054570850,
-      "sourceSize": 270,
+      "modifiedTime": 1749057943517,
+      "sourceSize": 5659,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 138359,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 279,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1749054570850,
+      "modifiedTime": 1749057943517,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Angels/Angels.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 6061,
+      "exportedPath": "angels/angels.html",
+      "dependencies": []
+    },
+    "Angels/Destiny, Angel of Fate, Profile.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 9425,
+      "exportedPath": "angels/destiny,-angel-of-fate,-profile.html",
+      "dependencies": [
+        "lib/media/destiny,-the-angel-of-fate-2.png",
+        "lib/media/destiny,-the-angel-of-fate-2.png"
+      ]
+    },
+    "IMG/angels and goods/Arcna, Angel of the Arcane (2).png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 455234,
+      "exportedPath": "img/angels-and-goods/arcna,-angel-of-the-arcane-(2).png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Clock, Angel of Time. .png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 689232,
+      "exportedPath": "img/angels-and-goods/clock,-angel-of-time.-.png/clock,-angel-of-time.-.png.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Cupin, the angel of sin.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 607796,
+      "exportedPath": "img/angels-and-goods/cupin,-the-angel-of-sin.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Day, the angel of light.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 372598,
+      "exportedPath": "img/angels-and-goods/day,-the-angel-of-light.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Death, the Angel of Death.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 484536,
+      "exportedPath": "img/angels-and-goods/death,-the-angel-of-death.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Destiny, the Angel of Fate 2.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 551216,
+      "exportedPath": "img/angels-and-goods/destiny,-the-angel-of-fate-2.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Drana, the Archangel of Dragons.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 613790,
+      "exportedPath": "img/angels-and-goods/drana,-the-archangel-of-dragons.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/fierce, regal angelic figure named Lucina  .png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 404698,
+      "exportedPath": "img/angels-and-goods/fierce,-regal-angelic-figure-named-lucina-.png/fierce,-regal-angelic-figure-named-lucina-.png.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Filla, the Angel of Feelings.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 553278,
+      "exportedPath": "img/angels-and-goods/filla,-the-angel-of-feelings.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Known, Angel of Knowledge.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 534332,
+      "exportedPath": "img/angels-and-goods/known,-angel-of-knowledge.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Livius, the Angel of Life.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 741530,
+      "exportedPath": "img/angels-and-goods/livius,-the-angel-of-life.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Loki, the angel of mischeif.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 433094,
+      "exportedPath": "img/angels-and-goods/loki,-the-angel-of-mischeif.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/mr,sesoan, angel of seasons.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 489090,
+      "exportedPath": "img/angels-and-goods/mr,sesoan,-angel-of-seasons.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Night, angel of Darkness.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 499686,
+      "exportedPath": "img/angels-and-goods/night,-angel-of-darkness.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Poki, Angel of Monsters.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 422330,
+      "exportedPath": "img/angels-and-goods/poki,-angel-of-monsters.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Prai, the Angel of Worship.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 464292,
+      "exportedPath": "img/angels-and-goods/prai,-the-angel-of-worship.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Sandman, angel of slumber.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 350372,
+      "exportedPath": "img/angels-and-goods/sandman,-angel-of-slumber.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Sky, angel of air.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 456742,
+      "exportedPath": "img/angels-and-goods/sky,-angel-of-air.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Sureflight.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 3244388,
+      "exportedPath": "img/angels-and-goods/sureflight.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Undean, Angel of the Undead.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 452790,
+      "exportedPath": "img/angels-and-goods/undean,-angel-of-the-undead.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/UntitledProject_Comp1_2025-01-08_19.56.04.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 1032339,
+      "exportedPath": "img/angels-and-goods/untitledproject_comp1_2025-01-08_19.56.04.png",
+      "dependencies": []
+    },
+    "IMG/angels and goods/Willia, Angel of Will.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 551854,
+      "exportedPath": "img/angels-and-goods/willia,-angel-of-will.png",
+      "dependencies": []
+    },
+    "IMG/Destiny, the Angel of Fate.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 551216,
+      "exportedPath": "img/destiny,-the-angel-of-fate.png",
+      "dependencies": []
+    },
+    "Realms/Damnation/Damnation.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 5438,
+      "exportedPath": "realms/damnation/damnation.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 1.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 4922,
+      "exportedPath": "realms/feywild/the-faerie-compendium/the-faerie-compendium-1.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 2.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 4094,
+      "exportedPath": "realms/feywild/the-faerie-compendium/the-faerie-compendium-2.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 3.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 3136,
+      "exportedPath": "realms/feywild/the-faerie-compendium/the-faerie-compendium-3.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 4.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 2890,
+      "exportedPath": "realms/feywild/the-faerie-compendium/the-faerie-compendium-4.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/The Faerie Compendium/The Faerie Compendium 5.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 0,
+      "exportedPath": "realms/feywild/the-faerie-compendium/the-faerie-compendium-5.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/Lady Luck.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 2310,
+      "exportedPath": "realms/feywild/lady-luck.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/Lorebook fae.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 6356,
+      "exportedPath": "realms/feywild/lorebook-fae.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/Lorebook fae 2.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 4517,
+      "exportedPath": "realms/feywild/lorebook-fae-2.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/Oathbound.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 2791,
+      "exportedPath": "realms/feywild/oathbound.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/The Divine Heart of the Feywild.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 6299,
+      "exportedPath": "realms/feywild/the-divine-heart-of-the-feywild.html",
+      "dependencies": []
+    },
+    "Realms/Feywild/The feywilds.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 5888,
+      "exportedPath": "realms/feywild/the-feywilds.html",
+      "dependencies": []
+    },
+    "Realms/Fiondell/Demre Stade.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 562,
+      "exportedPath": "realms/fiondell/demre-stade.html",
+      "dependencies": []
+    },
+    "Realms/Fiondell/Fiondell.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 5131,
+      "exportedPath": "realms/fiondell/fiondell.html",
+      "dependencies": []
+    },
+    "Realms/Plane of Reflection/Plane of reflection.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 4259,
+      "exportedPath": "realms/plane-of-reflection/plane-of-reflection.html",
+      "dependencies": []
+    },
+    "Realms/Plane of the gods/Plane of the Gods.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 6800,
+      "exportedPath": "realms/plane-of-the-gods/plane-of-the-gods.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Appointing of Day, Night, and Mr. Season.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 5004,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-appointing-of-day,-night,-and-mr.-season.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Appointment of Lady Love, Sandman, Filla, Cupin, and Loki.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 10619,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-appointment-of-lady-love,-sandman,-filla,-cupin,-and-loki.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Appointment of Undean, Keeper of Souls.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 7911,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-appointment-of-undean,-keeper-of-souls.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Beginning of All Things.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 7675,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-beginning-of-all-things.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Birth of the Fey.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 5425,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-birth-of-the-fey.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Blessing of Plantios, Nurturer of the Green.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 8276,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-blessing-of-plantios,-nurturer-of-the-green.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Creation of Beasts and Monsters.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 6054,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-creation-of-beasts-and-monsters.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Creation of Dragons.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 4786,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-creation-of-dragons.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The First Memory, The Making of Mortals.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 7086,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-first-memory,-the-making-of-mortals.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Forging of the Dwarves.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 7045,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-forging-of-the-dwarves.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Origin of the Tieflings.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 3031,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-origin-of-the-tieflings.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Truth Behind the First Dragonborn.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 6075,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-truth-behind-the-first-dragonborn.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Banishment of the Voidbringer.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 8036,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-banishment-of-the-voidbringer.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Choice of Destiny.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 5905,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-choice-of-destiny.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Era of Divine Silence.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 6855,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-era-of-divine-silence.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Founding of the Church of the Five.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 8255,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-founding-of-the-church-of-the-five.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Origins of Destiny.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 11958,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-origins-of-destiny.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Rise of the Church of Five.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 7212,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-rise-of-the-church-of-five.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Rise of the Holy Knights.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 23966,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-rise-of-the-holy-knights.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Tale of the Veil’s Shattering.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 21132,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-tale-of-the-veil’s-shattering.html",
+      "dependencies": []
+    },
+    "Angels of order.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 528,
+      "exportedPath": "angels-of-order.html",
+      "dependencies": []
+    },
+    "Angels of Parts of life.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 771,
+      "exportedPath": "angels-of-parts-of-life.html",
+      "dependencies": []
+    },
+    "Book of Beginning.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 760,
+      "exportedPath": "book-of-beginning.html",
+      "dependencies": []
+    },
+    "Book of Destiny.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 296,
+      "exportedPath": "book-of-destiny.html",
+      "dependencies": []
+    },
+    "ChatGPT Image 18 maj 2025 03_42_01.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 3315727,
+      "exportedPath": "chatgpt-image-18-maj-2025-03_42_01.png",
+      "dependencies": []
+    },
+    "The chained angels.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 5653,
+      "exportedPath": "the-chained-angels.html",
+      "dependencies": [
+        "img/angels-and-goods/sureflight.png",
+        "img/angels-and-goods/untitledproject_comp1_2025-01-08_19.56.04.png"
+      ]
+    },
+    "The fabric.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 388,
+      "exportedPath": "the-fabric.html",
+      "dependencies": []
+    },
+    "The tapestry.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 2271,
+      "exportedPath": "the-tapestry.html",
+      "dependencies": [
+        "chatgpt-image-18-maj-2025-03_42_01.png"
+      ]
+    },
+    "The Time stream.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 111,
+      "exportedPath": "the-time-stream.html",
+      "dependencies": []
+    },
+    "The Void.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 3747,
+      "exportedPath": "the-void.html",
+      "dependencies": []
+    },
+    "Varlen Brassleaf.md": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 1605,
+      "exportedPath": "varlen-brassleaf.html",
+      "dependencies": []
+    },
+    "lib/media/destiny,-the-angel-of-fate-2.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 551216,
+      "exportedPath": "lib/media/destiny,-the-angel-of-fate-2.png",
+      "dependencies": []
+    },
+    "img/angels-and-goods/sureflight.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 3244388,
+      "exportedPath": "img/angels-and-goods/sureflight.png",
+      "dependencies": []
+    },
+    "img/angels-and-goods/untitledproject_comp1_2025-01-08_19.56.04.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 1032339,
+      "exportedPath": "img/angels-and-goods/untitledproject_comp1_2025-01-08_19.56.04.png",
+      "dependencies": []
+    },
+    "chatgpt-image-18-maj-2025-03_42_01.png": {
+      "modifiedTime": 1749057943517,
+      "sourceSize": 3315727,
+      "exportedPath": "chatgpt-image-18-maj-2025-03_42_01.png",
       "dependencies": []
     }
   }
