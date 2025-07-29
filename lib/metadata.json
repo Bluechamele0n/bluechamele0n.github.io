@@ -1,6 +1,6 @@
 {
   "vaultName": "Player Encyclopedia",
-  "lastExport": 1750518662027,
+  "lastExport": 1753800816780,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -73,6 +73,11 @@
     "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Tale of the Veil’s Shattering.md",
     "The Tapestry, Chronicles of the Five gods/Book of The Voids/Arraxiel.md",
     "The Tapestry, Chronicles of the Five gods/Book of The Voids/Atheris.md",
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/Raven Queen.md",
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/Soron.md",
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/The Assention.md",
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/The Twins.md",
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/Unknown.md",
     "Angels of order.md",
     "Angels of Parts of life.md",
     "Book of Beginning.md",
@@ -151,176 +156,176 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1750518662027,
-      "sourceSize": 38695,
+      "modifiedTime": 1753800816780,
+      "sourceSize": 40545,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1750518662027,
-      "sourceSize": 6200,
+      "modifiedTime": 1753800816780,
+      "sourceSize": 6693,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 138359,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1750518662027,
+      "modifiedTime": 1753800816780,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Angels/Angels.md": {
-      "modifiedTime": 1750377703774,
-      "sourceSize": 6177,
+      "modifiedTime": 1753800816780,
+      "sourceSize": 7067,
       "exportedPath": "angels/angels.html",
       "dependencies": []
     },
@@ -571,7 +576,7 @@
       "dependencies": []
     },
     "The Tapestry, Chronicles of the Five gods/Book of Beginning/The Beginning of All Things.md": {
-      "modifiedTime": 1750377703774,
+      "modifiedTime": 1753800816780,
       "sourceSize": 7683,
       "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-beginning/the-beginning-of-all-things.html",
       "dependencies": []
@@ -643,7 +648,7 @@
       "dependencies": []
     },
     "The Tapestry, Chronicles of the Five gods/Book of Destiny/The Founding of the Church of the Five.md": {
-      "modifiedTime": 1749057943517,
+      "modifiedTime": 1753800816780,
       "sourceSize": 8255,
       "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-destiny/the-founding-of-the-church-of-the-five.html",
       "dependencies": []
@@ -679,7 +684,7 @@
       "dependencies": []
     },
     "Angels of Parts of life.md": {
-      "modifiedTime": 1750377703774,
+      "modifiedTime": 1753800816780,
       "sourceSize": 779,
       "exportedPath": "angels-of-parts-of-life.html",
       "dependencies": []
@@ -705,8 +710,8 @@
       ]
     },
     "Kryxis.md": {
-      "modifiedTime": 1749059280319,
-      "sourceSize": 2562,
+      "modifiedTime": 1753800816780,
+      "sourceSize": 2959,
       "exportedPath": "kryxis.html",
       "dependencies": []
     },
@@ -780,6 +785,36 @@
       "modifiedTime": 1750518662027,
       "sourceSize": 3747,
       "exportedPath": "realms/the-void.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/Raven Queen.md": {
+      "modifiedTime": 1753800816780,
+      "sourceSize": 0,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-the-voids/raven-queen.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/Soron.md": {
+      "modifiedTime": 1753800816780,
+      "sourceSize": 0,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-the-voids/soron.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/The Assention.md": {
+      "modifiedTime": 1753800816780,
+      "sourceSize": 0,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-the-voids/the-assention.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/The Twins.md": {
+      "modifiedTime": 1753800816780,
+      "sourceSize": 0,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-the-voids/the-twins.html",
+      "dependencies": []
+    },
+    "The Tapestry, Chronicles of the Five gods/Book of The Voids/Unknown.md": {
+      "modifiedTime": 1753800816780,
+      "sourceSize": 0,
+      "exportedPath": "the-tapestry,-chronicles-of-the-five-gods/book-of-the-voids/unknown.html",
       "dependencies": []
     }
   }
